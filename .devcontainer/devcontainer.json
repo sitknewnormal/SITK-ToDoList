@@ -1,0 +1,13 @@
+{
+	"name": "SITK - ToDo List.",
+    "build": {
+        "dockerfile": "Dockerfile",
+    },
+	"settings": {
+		"terminal.integrated.shell.linux": "/bin/bash"
+	},
+	"extensions": [
+		"eamodio.gitlens",
+		"ritwickdey.liveserver"
+	],
+}
